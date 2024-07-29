@@ -32,7 +32,7 @@ body{
 }
 .container:hover{
     background-image:linear-gradient(to right ,rgba(23, 23, 80, 0.756),rgba(0, 0, 0, 0.385)),
-    url(/images/avatar.webp)
+    url(../images/avatar.webp)
 }
 .header{
     display: flex;
